@@ -1,0 +1,11 @@
+streamlit
+groq
+pandas
+matplotlib
+seaborn
+plotly
+speechrecognition
+gtts
+pygame
+pyaudio
+openpyxl
