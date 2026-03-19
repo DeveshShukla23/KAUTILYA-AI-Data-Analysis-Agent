@@ -13,9 +13,17 @@ import os
 import re
 import tempfile
 from groq import Groq
-import speech_recognition as sr
+try:
+    import speech_recognition as sr
+    VOICE_AVAILABLE = True
+except ImportError:
+    VOICE_AVAILABLE = False
 from gtts import gTTS
-import pygame
+try:
+    import pygame
+    PYGAME_AVAILABLE = True
+except ImportError:
+    PYGAME_AVAILABLE = False
 import time
 import threading
 
