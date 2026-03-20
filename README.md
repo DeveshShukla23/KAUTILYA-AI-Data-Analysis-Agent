@@ -198,8 +198,6 @@ KAUTILYA-AI-Data-Analysis-Agent/
 
 <div align="center">
 
-<img src="https://github.com/DeveshShukla23.png" width="120" style="border-radius:50%"/>
-
 ### Devesh Shukla
 
 *AI & Data Science Enthusiast | Builder of Intelligent Systems*
