@@ -1,140 +1,157 @@
 <div align="center">
 
-# 🤖 KAUTILYA
-## AI-Powered Data Analysis Agent
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FF4B6E&height=200&section=header&text=KAUTILYA&fontSize=70&fontColor=FF4B6E&fontAlignY=38&desc=AI-Powered%20Data%20Analysis%20Agent%20%7C%20Groq%20LLaMA3%2070B%20%7C%20Voice%20Enabled&descAlignY=58&descSize=16&descColor=a0aec0&animation=fadeIn)
 
-*Named after Chanakya — Ancient Indian Strategist & Mastermind*
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-Click%20to%20Launch-e94560?style=for-the-badge&labelColor=0f3460)](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Groq](https://img.shields.io/badge/Groq-LLaMA3_70B-FF6F00?style=for-the-badge)](https://groq.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Status](https://img.shields.io/badge/Status-✅%20Live-00C853?style=for-the-badge)](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4B6E&center=true&vCenter=true&width=850&lines=Agentic+AI+%7C+Groq+LLaMA3+70B+%7C+Fastest+AI+Inference;Voice+Enabled+%E2%80%94+Hindi+%26+English+%F0%9F%8E%A4;Upload+Any+CSV%2FExcel+%E2%86%92+Ask+Questions+%E2%86%92+Get+Insights;Auto+Visualizations+%7C+Live+Streamlit+App+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
-**Drop any dataset. Ask anything. Get instant AI-powered insights.**
-*The world's fastest LLM meets your data — in seconds.*
+![Status](https://img.shields.io/badge/Status-Live%20🚀-FF4B6E?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA3%2070B-00A67E?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Voice](https://img.shields.io/badge/Voice-Hindi%20%7C%20English-FF4B6E?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative_AI-Agentic-412991?style=for-the-badge)
+
+<br>
+
+[![Live App](https://img.shields.io/badge/🚀%20LIVE%20APP-Try%20KAUTILYA%20Now-FF4B6E?style=for-the-badge)](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh_Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-shukla23)
+[![GitHub](https://img.shields.io/badge/GitHub-DeveshShukla23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveshShukla23)
 
 </div>
 
 ---
 
-## 🌐 Try It Live — No Installation Needed!
+## 🤖 About KAUTILYA
+```python
+kautilya = {
+    "name"       : "KAUTILYA — AI-Powered Data Analysis Agent",
+    "named_after": "Chanakya (Kautilya) — Ancient Indian Strategist & Master of Intelligence",
+    "ai_model"   : "Groq LLaMA3 70B — Fastest AI Inference Available",
+    "voice"      : ["Hindi", "English"],
+    "input"      : ["CSV", "Excel", "Text Questions", "Voice Questions"],
+    "output"     : ["AI Insights", "Auto Visualizations", "Voice Responses"],
+    "deployment" : "Live Streamlit App",
+    "unique"     : "Agentic AI — thinks, analyzes & recommends autonomously"
+}
+```
 
-<div align="center">
-
-### 👇 Click below to open the live app instantly
-
-[![🚀 Launch KAUTILYA](https://img.shields.io/badge/🚀%20Launch%20KAUTILYA-Open%20Live%20App-e94560?style=for-the-badge&labelColor=0f3460)](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/)
-
-> ⚠️ **Note:** Voice features require a local setup (microphone hardware).
-> AI Chat, Visualizations & Data Upload work fully on the live demo.
-
-</div>
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Main Interface
-![Home](Kautilya_UI2.png)
-
-</div>
-
-<br>
-
-| 📂 Dataset Loaded | 🤖 AI Answering Questions |
-|:---:|:---:|
-| ![Dataset](Kautilya%20Load%20Dataset.png) | ![AI Response](kautilya%20Question%20asked.png) |
-
-<br>
-
-<div align="center">
-
-### 📊 Auto Visualizations
-![Charts](Kautilya%20visualization.png)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🎤 Voice & Controls
-![Voice](kautilya%20speak%20button.png)
-
-</div>
+> 🧠 *"Named after the ancient Indian strategist Chanakya — KAUTILYA doesn't just answer questions. It thinks, analyzes, and delivers intelligence."*
 
 ---
 
-## 🧠 What is KAUTILYA?
+## 🎬 Live Demo
 
-KAUTILYA is a **Generative AI + Agentic AI** application built for data analysis.
-Unlike a regular chatbot, KAUTILYA thinks and acts like a real data scientist:
+![KAUTILYA Live Demo](kautilya_demo.gif)
 
-| Regular Chatbot | 🤖 KAUTILYA |
-|---|---|
-| Answers fixed questions | Understands **any** dataset |
-| No memory | Maintains **full conversation** context |
-| Text only | Generates **auto visualizations** |
-| Reactive | **Proactively** recommends next steps |
-| One-time answers | Finds **anomalies & hidden trends** |
+---
+
+## 🖥️ App Screenshots
+
+### Complete Interface Overview
+![KAUTILYA Collage](KAUTILYA_LinkedIn_Collage.png)
+
+### Main Interface — Home Screen
+![KAUTILYA UI](Kautilya_UI2.png)
+
+### Dataset Loaded — 9,994 Rows
+![Dataset Loaded](Kautilya%20Load%20Dataset.png)
+
+### AI Answering Questions
+![Question Asked](kautilya%20Question%20asked.png)
+
+### Auto Visualization — Correlation Heatmap
+![Visualization](Kautilya%20visualization.png)
+
+### Voice Input & Speak Button
+![Speak Button](kautilya%20speak%20button.png)
 
 ---
 
 ## ✨ Key Features
 
+<div align="center">
+
 | Feature | Details |
-|---|---|
-| 🧠 **Groq LLaMA3 70B** | World's fastest AI inference — answers in milliseconds |
-| 📁 **Any Dataset** | Upload CSV or Excel — auto encoding detection included |
-| 🎤 **Voice Input** | Speak in Hindi or English (local setup) |
-| 🔊 **Voice Output** | Responses read aloud via Google Text-to-Speech (local) |
-| 📊 **Auto Visualizations** | Distribution, Correlation Heatmap, Categories, Missing Values |
-| 🔍 **Auto Analysis** | One click → complete dataset intelligence report |
-| 💬 **Conversation Memory** | Maintains full chat context across multiple questions |
-| 🔐 **Secure API** | Key stored in `.env` — never exposed, never pushed to GitHub |
+|:---:|:---|
+| 🧠 **AI Brain** | Groq LLaMA3 70B — transformer-based LLM |
+| 🎤 **Voice Input** | Hindi & English via Google Speech API |
+| 🔊 **Voice Output** | Google Text-to-Speech (gTTS) |
+| 📊 **Auto Analysis** | Complete dataset analysis in one click |
+| 📈 **Visualizations** | Distribution, Correlation, Categories, Missing Values |
+| 🔍 **Data Explorer** | Preview, Statistics, Column Info |
+| 🔐 **Security** | API key stored in .env — never exposed |
+| 📁 **Sample Datasets** | E-Commerce Orders, Superstore Sales |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|---|---|
-| 🧠 AI Brain | Groq API + LLaMA3 70B |
-| 🖥️ Frontend | Streamlit |
-| 📊 Data | Pandas + OpenPyXL |
-| 📈 Charts | Matplotlib + Seaborn + Plotly |
-| 🎤 Voice Input | SpeechRecognition + Google Speech API |
-| 🔊 Voice Output | gTTS + pygame |
-| 🔐 Security | python-dotenv |
-| ☁️ Deployment | Streamlit Community Cloud |
+## 🤖 What Makes This Agentic AI?
+```
+Traditional Chatbot    = Answers predefined questions
+KAUTILYA (Agentic AI)  = Autonomously:
+                         → Loads and understands any dataset
+                         → Maintains conversation memory
+                         → Generates insights without instructions
+                         → Recommends next steps proactively
+                         → Responds in voice — Hindi & English
+```
 
 ---
 
-## 🚀 Run Locally (Full Voice Support!)
+## 📊 Sample Datasets Included
+
+<div align="center">
+
+| Dataset | Rows | Domain |
+|:---:|:---:|:---:|
+| Order Details | 500 | E-Commerce |
+| Sample Superstore | 9,994 | Retail Sales |
+| NIFTY50 *(Download separately)* | 2,35,192 | Stock Market |
+
+</div>
+
+> ⚠️ NIFTY50 dataset not included due to GitHub 25MB limit. Download from [Kaggle](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) and place in root folder.
+
+---
+
+## 🚀 Run Locally
 ```bash
-# Step 1 — Clone the repo
 git clone https://github.com/DeveshShukla23/KAUTILYA-AI-Data-Analysis-Agent.git
 cd KAUTILYA-AI-Data-Analysis-Agent
-
-# Step 2 — Install dependencies
 pip install -r requirements.txt
-
-# Step 3 — Add your Groq API key
-echo "GROQ_API_KEY=your_key_here" > .env
-
-# Step 4 — Launch!
+echo "GROQ_API_KEY=your_groq_api_key_here" > .env
 streamlit run agent.py
 ```
 
-> 🔑 Get your free Groq API key at: [console.groq.com](https://console.groq.com)
-> 🎤 Local setup gives you **full voice support** in Hindi & English!
+> Get your free API key at: [console.groq.com](https://console.groq.com)
+
+---
+
+## 💡 How to Use
+```
+1. Run the app locally or open Live App
+2. Select data source from sidebar:
+   → Upload your own CSV/Excel file
+   → Or use provided sample datasets
+3. Ask questions in text or voice
+4. Click "Auto Analyze Dataset"
+   for complete instant analysis
+5. Explore visualizations in
+   "Auto Visualizations" tab
+```
+
+---
+
+## 🔐 Security
+```
+API Key stored in .env file
+.env listed in .gitignore
+= API key NEVER pushed to GitHub
+= Safe for public repositories
+```
 
 ---
 
@@ -142,83 +159,84 @@ streamlit run agent.py
 ```
 KAUTILYA-AI-Data-Analysis-Agent/
 │
-├── agent.py                  ← Main application
-├── requirements.txt          ← Python dependencies
-├── .gitignore                ← Keeps API key safe
+├── agent.py                          → Main Streamlit application
+├── requirements.txt                  → Python dependencies
+├── .gitignore                        → Excludes .env file
+├── kautilya_demo.gif                 → Live demo animation
+├── KAUTILYA_LinkedIn_Collage.png     → App overview collage
+├── Kautilya_UI2.png                  → Main interface screenshot
+├── Kautilya Load Dataset.png         → Dataset loaded screenshot
+├── kautilya Question asked.png       → AI answering screenshot
+├── Kautilya visualization.png        → Auto visualization screenshot
+├── kautilya speak button.png         → Voice controls screenshot
 │
-├── Order Details.csv         ← E-Commerce sample (500 rows)
-├── Sample - Superstore.csv   ← Retail sample (9,994 rows)
-│
-└── screenshots/
-    ├── Kautilya_UI2.png
-    ├── Kautilya Load Dataset.png
-    ├── kautilya Question asked.png
-    ├── kautilya speak button.png
-    └── Kautilya visualization.png
+└── Sample Data/
+    ├── Order Details.csv             → E-Commerce dataset
+    └── Sample - Superstore.csv       → Retail sales dataset
 ```
 
-> ⚠️ NIFTY50 dataset not included — exceeds GitHub 25MB limit.
-> Download from [Kaggle](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) and place in the project folder.
-
 ---
 
-## 📊 Sample Datasets
+## 🛠️ Tech Stack
 
-| Dataset | Rows | Domain | Included |
-|---|---|---|---|
-| Order Details | 500 | 🛒 E-Commerce | ✅ Yes |
-| Sample Superstore | 9,994 | 🏪 Retail Sales | ✅ Yes |
-| NIFTY50 Stock Data | 235,192 | 📈 Stock Market | ⬇️ Download separately |
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA3%2070B-00A67E?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-Voice%20Input-FF4B6E?style=for-the-badge)
+![gTTS](https://img.shields.io/badge/gTTS-Voice%20Output-FF4B6E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge)
 
-## 🔐 Security
-
-| What | How |
-|---|---|
-| API Key storage | Stored in `.env` file locally |
-| Git protection | `.env` listed in `.gitignore` |
-| Cloud security | Key stored in Streamlit Secrets |
-| Result | Key is **NEVER** pushed to GitHub |
+</div>
 
 ---
 
 ## 🔮 Future Improvements
-
-- [ ] 📡 Real-time database connectivity
-- [ ] 🤖 Automated ML model training on uploaded data
-- [ ] 📄 PDF report generation
-- [ ] 🔗 Multi-step agent planning with LangChain
-- [ ] 🗣️ Full Hindi/Hinglish language support
-- [ ] 🎤 Cloud voice support workaround
+```
+🔄  Real-time database connectivity
+🤖  Automated ML model training on uploaded data
+📄  PDF report generation
+🧠  Multi-step agent planning using LangChain
+🌐  Full Hindi/Hinglish language support
+📊  Dashboard mode for business reporting
+```
 
 ---
 
-## 👨‍💻 About the Author
+## 💡 Skills Demonstrated
 
 <div align="center">
 
-### Devesh Shukla
+| Agentic AI | Voice Tech | Data Analysis |
+|:---:|:---:|:---:|
+| ✅ LLM Integration | ✅ Speech Recognition | ✅ Auto EDA |
+| ✅ Groq API | ✅ Text-to-Speech | ✅ Auto Visualizations |
+| ✅ Conversation Memory | ✅ Hindi & English | ✅ Dataset Intelligence |
+| ✅ Autonomous Insights | ✅ Voice Controls | ✅ Business Recommendations |
 
-*AI & Data Science Enthusiast | Builder of Intelligent Systems*
-
-I am a passionate developer focused on building real-world AI applications
-that solve meaningful problems. KAUTILYA is one such project — combining
-**Agentic AI**, **voice technology**, and **data analytics** into a single
-powerful tool inspired by ancient Indian wisdom.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-shukla23)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveshShukla23)
-[![Email](https://img.shields.io/badge/Gmail-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukladevesh40@gmail.com)
-
-<br>
+</div>
 
 ---
 
-*⭐ If KAUTILYA helped or impressed you, give it a star — it means a lot!*
+## 👨‍💻 Author
 
-*🔁 Feel free to fork, improve, and build on top of this project.*
+<div align="center">
+
+**Devesh Shukla**
+*Data Analyst | Data Scientist | Agentic AI Builder*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh_Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-shukla23)
+[![GitHub](https://img.shields.io/badge/GitHub-DeveshShukla23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeveshShukla23)
+[![Live App](https://img.shields.io/badge/🚀%20Try%20KAUTILYA-Live-FF4B6E?style=for-the-badge)](https://kautilya-ai-data-analysis-agent-9ykvqyhu94wxhff5eshcck.streamlit.app/)
+[![CHANAKYA](https://img.shields.io/badge/My%20Capstone-CHANAKYA-00D4AA?style=for-the-badge)](https://github.com/DeveshShukla23/CHANAKYA)
+
+<br>
+
+⭐ **If you find this useful, please give it a star!** ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:FF4B6E&height=120&section=footer&animation=fadeIn)
 
 </div>
